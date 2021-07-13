@@ -7,4 +7,4 @@ Optimized SEO.
 Cross-browser compatibility.
 Clean code.
 W3C validated.
-Design and development: Marcos Nuñez.
+Design and development: Aguero Geist
